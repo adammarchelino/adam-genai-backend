@@ -3,8 +3,6 @@
 A lightweight and practical RESTful API powered by [Gemini 2.5 Flash](https://ai.google.dev/gemini-api/docs/models/gemini), built with Node.js and Express.  
 This backend supports **multimodal input** — generate content or analysis from **text, image, document, and audio**.
 
----
-
 ## 🔥 Features
 
 | Endpoint                  | Method | Description                              |
