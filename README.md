@@ -22,7 +22,7 @@ This backend supports **multimodal input** - generate content or analysis from *
 
 ## 🧪 How to Use
 
-### 1. Clone this repo
+# 1. Clone this repo
 
 ```
 git clone https://github.com/adammarchelino/adam-genai-backend.git
