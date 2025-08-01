@@ -67,8 +67,6 @@ Gunakan Postman / ThunderClient untuk testing.
 }
 ```
 
----
-
 ### ➤ `/generate-from-image`
 
 * **Method:** `POST`
@@ -77,16 +75,12 @@ Gunakan Postman / ThunderClient untuk testing.
   * `image`: *(type: File)*
   * `prompt`: *(type: Text)* (opsional)
 
----
-
 ### ➤ `/generate-from-document`
 
 * **Method:** `POST`
 * **Body (form-data):**
 
   * `document`: *(type: File - PDF/TXT/etc)*
-
----
 
 ### ➤ `/generate-from-audio`
 
@@ -110,4 +104,4 @@ Gunakan Postman / ThunderClient untuk testing.
 
 Built with focus & fire by
 **[Adam Marchelino](https://github.com/adammarchelino)** 🚀
-*A young BEGINNER walking against the current.*
+*Seorang Fast Larner & Critical Thinker.*
