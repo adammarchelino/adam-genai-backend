@@ -52,8 +52,6 @@ node index.js
 
 Server akan berjalan di `http://localhost:3000`
 
----
-
 ## 🔌 Testing the API
 
 Gunakan Postman / ThunderClient untuk testing.
@@ -98,8 +96,6 @@ Gunakan Postman / ThunderClient untuk testing.
   * `audio`: *(type: File - MP3/WAV)*
   * `prompt`: *(type: Text)* (opsional)
 
----
-
 ## 📁 File Structure
 
 ```
@@ -110,12 +106,8 @@ Gunakan Postman / ThunderClient untuk testing.
 ├── uploads/               # Temp file storage (auto-created by multer)
 ```
 
----
-
 ## 👨‍💻 Author
 
 Built with focus & fire by
 **[Adam Marchelino](https://github.com/adammarchelino)** 🚀
 *A young BEGINNER walking against the current.*
-
----
