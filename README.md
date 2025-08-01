@@ -12,8 +12,6 @@ This backend supports **multimodal input** — generate content or analysis from
 | `/generate-from-document`| POST   | Summarize or analyze a document file     |
 | `/generate-from-audio`   | POST   | Transcribe or analyze uploaded audio     |
 
----
-
 ## ⚙️ Tech Stack
 
 - **Node.js** with **Express**
@@ -21,8 +19,6 @@ This backend supports **multimodal input** — generate content or analysis from
 - **Multer** for file upload handling
 - **dotenv** for environment configuration
 - **fs** for file cleanup
-
----
 
 ## 🧪 How to Use
 
